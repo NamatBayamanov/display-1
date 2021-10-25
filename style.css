@@ -1,0 +1,29 @@
+nav {
+  max-width: 600px;
+  margin: 0 auto;
+
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+nav ul a {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
