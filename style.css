@@ -27,3 +27,56 @@ nav {
 }
 
 
+header {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 2;
+  text-align: center;
+}
+#example-1 {
+  border: 1px solid gray;
+  text-align: center;
+  max-width: 150px;
+  
+}
+
+.page-2 {
+  padding: 20px 50px;
+  font-size: 30px;
+  margin: 0 0 -2 0;
+}
+.page-3 {
+  padding: 10px  50px 5px;
+  font-size: 30px;
+}
+table {
+  border-collapse: collapse;
+}
+span {
+  display: inline-block;
+}
+#page-4 {
+  padding: 25px;
+}
+#page-5 {
+  font-size: 20px;
+  line-height: 2;
+}
+#example-6 {
+  display: inline;
+}
+#example-6 {
+  display: flex;
+  float: left;
+  margin: 0 10px;
+  margin-bottom: 35px;
+  flex-grow: 1;
+  justify-content: space-around;
+}
+#example-7 {
+  display: inline;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
